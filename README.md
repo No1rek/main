@@ -1,4 +1,4 @@
-There will listed all projects I make for practice and demonstration purposes.
+There are listed all projects I make for practice and demonstration purposes.
 
 1. Kaggle Foursquare Location Matching 
 NLP, Fuzzy string matching, Name matching, ANN
