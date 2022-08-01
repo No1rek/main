@@ -4,5 +4,5 @@ There are listed all projects I make for practice and demonstration purposes.
 NLP, Fuzzy string matching, Name matching, ANN  
 https://github.com/No1rek/kaggle_foursquare_location_matching  
 
-2. Implementation of P2PNet for crod counting  
+2. Implementation of P2PNet for crowd counting  
 https://github.com/No1rek/P2PNet  
